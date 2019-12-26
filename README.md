@@ -1,6 +1,6 @@
 # Craigslist_Scraper
 
-Have you ever searched for *that one item* but haven't been able to find it? What if it was possible for you to search for that item *nationwide* and have a good deal while you're at it? That's where *Craigslist_Scraper* comes in :)
+Have you ever searched for *that one item* but haven't been able to find it? What if it was possible for you to search for that item *nationwide* and have a good deal while you're at it? That's where *Craigslist_Scraper* comes in handy :)
 
 ## Introduction
 Searches Craigslist nationwide to see if someone is selling the item you're looking for
