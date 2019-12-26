@@ -10,6 +10,7 @@ Name           | Terminal Command
 ---            | ---
 Homebrew       | `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 Python 3       | `brew install python`
+Firefox        | `brew cask install firefox`
 Selenium       | `pip3 install selenium`
 Beautiful Soup | `pip3 install beautifulsoup4`
 lxml           | `pip3 install lxml`
