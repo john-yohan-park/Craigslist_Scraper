@@ -22,4 +22,4 @@ lxml           | `pip3 install lxml`
     - For example, `python3 craigslist_scraper.py 'Honda S2000' 6000 20000`
 - returns list of searched cities & list of URLs for posts that have the item you're looking for
 
-Feel free to fork this repo and narrow down the list of cities searched or mod it anyway you'd like :)
+Feel free to fork this repo and narrow down the list of cities searched or mod it any way you'd like :)
