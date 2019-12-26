@@ -20,7 +20,7 @@ lxml           | `pip3 install lxml`
 - `cd` into `Craigslist_Scraper` directory
 - type `python3 craigslist_scraper.py 'ITEM NAME' MIN_PRICE MAX_PRICE` in Terminal
     - For example, `python3 craigslist_scraper.py 'Honda S2000' 6000 20000`
-    - Don't forget the single quotes around `ITEM NAME`!
+    - Don't forget the single quotes around `ITEM NAME`:)
 - returns list of searched cities & list of URLs for posts that have the item you're looking for
 
 Fork / Clone this repo and narrow down the list of cities searched or mod it any way you'd like :)
