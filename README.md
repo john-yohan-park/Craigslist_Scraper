@@ -16,7 +16,7 @@ lxml           | `brew install lxml`
 
 ## Instructions
 - open Terminal
-- cd into `Craigslist_Scraper` directory
+- `cd` into `Craigslist_Scraper` directory
 - type `python3 craigslist_scraper.py 'ITEM NAME' MIN_PRICE MAX_PRICE` in Terminal
     - For example, `python3 craigslist_scraper.py 'Honda S2000' 6000 20000`
 - console returns a list of searched cities AND a list of URLs for the posts that have the item you're looking for
