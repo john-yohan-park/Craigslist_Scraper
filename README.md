@@ -3,7 +3,7 @@
 Written in Python
 
 ## Introduction
-Searches Craigslist nationwide to see if someone is selling an item you're looking for
+Searches Craigslist nationwide to see if someone is selling an item you're searching for
 
 ## System Requirements
 Name           | Terminal Command
