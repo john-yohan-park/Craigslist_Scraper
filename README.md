@@ -23,4 +23,4 @@ lxml           | `pip3 install lxml`
     - Don't forget to put single quotes around `ITEM NAME`:)
 - returns list of searched cities & list of URLs for posts that have the item you're looking for
 
-Fork or Clone this repo and narrow down the list of cities searched or mod it any way you'd like :)
+Fork or clone this repo and narrow down the list of cities searched or mod it any way you'd like :)
