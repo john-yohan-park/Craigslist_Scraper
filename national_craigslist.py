@@ -3,7 +3,6 @@ Name    John Park
 Github  john-yohan-park
 Date    12/23/2019
 '''
-
 from selenium                      import webdriver        # interact with browser to scrape
 from selenium.webdriver.support.ui import WebDriverWait    # wait for page to load
 from selenium.webdriver.support    import expected_conditions as EC # check element is present in HTML
