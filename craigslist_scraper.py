@@ -22,7 +22,7 @@ class CL_scraper(object):
         self.driver    = webdriver.Firefox()        # instantiate web session
 
     def search(self):
-        # my US cities to search
+        # custom US cities to search
         # self.cities = ['losangeles', 'newyork', 'chicago']
         
         # list of US cities that have unique Craigslist url
