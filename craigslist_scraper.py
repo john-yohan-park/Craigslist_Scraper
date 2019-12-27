@@ -68,6 +68,9 @@ class CL_scraper(object):
             for url in self.urls: print(url) # print every url
         print()
 
+    def quit(self):
+        self.driver.quit()  # close browser
+
 # capture arguments
 item      = argv[1]
 min_price = argv[2]
@@ -77,3 +80,4 @@ max_price = argv[3]
 scraper = CL_scraper(item, min_price, max_price)
 scraper.search()
 scraper.print_results()
+scraper.quit()
