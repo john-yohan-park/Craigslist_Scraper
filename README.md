@@ -3,7 +3,7 @@
 Have you ever searched online for *that one item* but haven't been able to find it? What if it was possible for you to search for that item *nationwide* and have a good deal while you're at it? That's where *National Craigslist* comes in.
 
 ## Introduction
-Searches Craigslist nationwide to see if someone is selling the item you're looking for
+Search Craigslist nationwide to see if someone is selling the item you're looking for
 
 ## System Requirements
 Name           | Terminal Command
